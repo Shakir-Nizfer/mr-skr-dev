@@ -1,0 +1,117 @@
+
+.main1{
+    position: relative;
+
+}
+#main{
+    background-color:  hsl(0, 0%, 100%);
+    width: 1200px;
+    align-items: center;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding-left: 15px;
+    position: relative;
+}
+.pic{
+    width: 1200px;
+    height: 350px;
+    border-radius: 20px;
+    align-items: center;
+    position: relative;
+}
+.head{
+    font-family: 'young serif';font-size: 24px;
+    position: relative;
+}
+.headp{
+    font-family: 'young serif'; font-size: 16px;
+    position: relative;
+    
+}
+.pt{
+    background-color:hsl(330, 100%, 98%);
+    height: 165px;
+    background-size: cover;
+    border-radius: 20px;
+    margin-block-end: 30px;
+    position: relative;
+}
+.pth{
+    font-family: "outfit",sans-serif; font-size: 18px;
+    font-weight: 400, 600, 700;
+    color: hsl(332, 51%, 32%);
+    margin-left: 25px;
+    padding-top: 20px;
+    position: relative;
+}
+.ptp{
+    font-family: "outfit", serif;
+    font-size: 16px;
+    line-height: 1.8;
+    letter-spacing: 0.5px;
+    position: relative;
+
+}
+.lip{
+    padding-left: 20px; 
+    position: relative;
+}
+.ing{
+    font-family: 'young serif'; font-size: 25px;
+    font-weight: 400px;
+    color: hsl(14, 45%, 36%);
+    position: relative;
+}
+.ingl{
+    padding-left: 20px;
+    font-family:"outfit", serif;
+    font-size: 16px;
+    line-height: 1.8;
+    letter-spacing: 0.5px;
+    position: relative;
+}
+.int{
+    font-family: 'young serif'; font-size: 25px;
+    font-weight: 400px;
+    color: hsl(14, 45%, 36%);
+    position: relative;
+}
+.iol{
+    font-family: "outfit", serif;
+    font-size: 16px;
+    position: relative;
+}
+.inli{
+    padding-left: 20px;
+    line-height: 1.8;
+    position: relative;
+}
+.nut{
+    font-family: 'young serif'; font-size: 25px;
+    font-weight: 400px;
+    color: hsl(14, 45%, 36%);
+    position: relative;
+}
+.np{
+    font-family: "outfit", serif;
+    font-size: 16px;
+    position: relative;
+}
+.nul{
+    font-family: "outfit", serif;
+    font-size: 16px;
+    line-height: 1.8;
+    position: relative;
+}
+.nli{
+    word-spacing: 250px;
+    position: relative;
+}
+.nb{
+    color: hsl(14, 45%, 36%);
+    position: relative; 
+}
+.nhr{
+    margin-left: -25px;
+    position: relative;
+}
